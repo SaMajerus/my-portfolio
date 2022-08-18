@@ -11,14 +11,17 @@
 * Markdown
 * GitHub (Remote repository, GitHub-Pages) 
 
+
+<!--  ***** READ THE SUBMISSION FEEDBACK, COMPLETE ALL OBJECTIVES (BE SURE ABOUT IT) <em>BEFORE</em> SUBMITTING!!!!!         -SM, 8-18-2022, 9:15am.-->
 ## Description
 This is the Landing Page that will (apparently) be used in creating my full Programming Portfolio later on. Contains a recent photo of me, a list of Epicodus projects 
-that I've started/worked on (which is periodically updated), and a dedicated 'About Me' section. 
+that I've started/worked on (which is periodically updated), and a rather-extensive 'About Me' section. 
 
 ## Setup/Installation Requirements
 
-* To view the webpage via GitHub-Pages, click the following link (no malware, I promise):  SaMajerus.github.io/portfolio.
-* xx
+<!-- Do as follows ONLY when this is finished (Calvin confirmed this):  Do a git clone of the remote repo, create 'gh-pages' branch, push cloned-repo to that branch.    -SM, 8-18-2022, 9:08am. --> 
+* To view the webpage via GitHub-Pages, click the following link (no malware, I promise):  <!--SaMajerus.github.io/portfolio-->
+* 
 * _in a simple_
 * _easy-to-understand_
 * _format_
@@ -27,12 +30,12 @@ _{Leave nothing to chance! You want it to be easy for potential users, employers
 
 ## Known Bugs
 
-* Photo of myself won't display, because '.HEIC' is unsupported by HTML or something else. (Caption is unaffected, apart from the 
-missing photo icon.)
+* 
 * _should go here_
 
 ## License
 
 _{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
+<!--Write this part (see template's descriptor line above) based off of how I did it for the Week 2 Code-Review. (Asked Calvin when i met with him today, he agreed that how I wrote it for Wk2 was/is fine.)   -SM, 8-18-2022, 9:06am. -->
 
-Copyright (c) 8/5/2022. Samuel Majerus. 
+Licensed through MIT. Copyright (c) 8/5/2022. Samuel Majerus. 
