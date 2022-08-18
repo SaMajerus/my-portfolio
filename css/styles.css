@@ -1,40 +1,41 @@
+/* Missing properties (see resubmission review):  float, padding, border */
 body {
   text-align: left;
 
 }
 
-
-body.my-name-and-img { 
+/* Remove this line of whitespace */ 
+body my-name-and-img { 
   text-align: center; 
 } 
 
-
-body.h1 {  
+/* Remove this line of whitespace */ 
+body h1 {  
   font-size: 36pt;
   font-weight: bold; 
   text-decoration: underline; 
   color: darkgray;
 } 
 
-
-body.img{
+/* Remove this line of whitespace */ 
+body img{
   margin: auto; 
 }
 
-
+/* Remove this line of whitespace */ 
 .post-AST2 {
   text-indent: 5cm; 
   font-size: 10pt; 
-
+/* Remove this line of whitespace */ 
 }
 
-
+/* Remove this line of whitespace */ 
 p {
   font-family: 'Times New Roman', Times, serif; 
   font-size: 14pt; 
 } 
 
-
+/* Remove this line of whitespace */ 
 h2 {
   text-decoration: underline; 
 } 
@@ -43,7 +44,7 @@ h2 {
   font-size: 8pt;
 }
 
-
+/* Remove this line of whitespace */ 
 h3 {
 
 
@@ -64,13 +65,13 @@ h5 {
 
 a {
   color: blue; 
-
+/* Remove this line of whitespace */ 
 } 
 
 
 .prog-lang-lgd {
   font-style: italic; 
-
+/* Remove this line of whitespace */ 
 } 
 
 

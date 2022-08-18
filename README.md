@@ -30,12 +30,11 @@ _{Leave nothing to chance! You want it to be easy for potential users, employers
 
 ## Known Bugs
 
-* 
-* _should go here_
+* xx
 
 ## License
 
-_{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}_
-<!--Write this part (see template's descriptor line above) based off of how I did it for the Week 2 Code-Review. (Asked Calvin when i met with him today, he agreed that how I wrote it for Wk2 was/is fine.)   -SM, 8-18-2022, 9:06am. -->
+<!--Write this part (see template's descriptor line above) based off of how I did it for the Week 2 Code-Review. (Asked Calvin when i met with him today, he agreed that how I wrote it for Wk2 was/is fine.)   -SM, 8-18-2022, 9:06am. --> 
+Email me at ladolego@gmail.com for questions, ideas, concerns, or even any issues that you run into.  You may also clone or Fork the content in this Repo to fiddle around with it, if you like. 
 
 Licensed through MIT. Copyright (c) 8/5/2022. Samuel Majerus. 
