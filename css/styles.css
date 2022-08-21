@@ -18,8 +18,11 @@ body h1 {
 } 
 
 /* Remove this line of whitespace */ 
-body img{
+body img{ 
   margin: auto; 
+  float: left; 
+  width: 50%; 
+  height: 50%; 
 }
 
 /* Remove this line of whitespace */ 
