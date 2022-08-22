@@ -10,6 +10,7 @@
 * CSS
 * Markdown
 * GitHub (Remote repository, GitHub-Pages) 
+* Git (Navigation of local repository)
 
 
 <!--  ***** READ THE SUBMISSION FEEDBACK, COMPLETE ALL OBJECTIVES (BE SURE ABOUT IT) <em>BEFORE</em> SUBMITTING!!!!!         -SM, 8-18-2022, 9:15am.-->
