@@ -24,17 +24,15 @@ that I've started/worked on (which is periodically updated), and a rather-extens
 * To view the webpage via GitHub-Pages, click the following link (no malware, I promise):  <!--SaMajerus.github.io/portfolio--> 
 
 
-_{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this application depends on? We recommend deleting the project from your desktop, re-cloning the project from GitHub, and writing down all the steps necessary to get the project working again.}_
-
 ## Known Bugs
 
 * Caption that accompanies my picture is missing from the page, centered in the middle of the picture but hidden, or is invisible...  
-* Descriptions of each Epicodus project in the list are supposed to be 8pt-size. 
 * Potential bug/result: if the CSS file is not in its proper directory, then not only will formatting and styling be missing, but my picture will be huge -- literally. 
+* Indentation of the section 'Activities I enjoy' is intentional. (Not a bug) 
+* I intended to add a box around the 'Epicodus Projects List', but it didn't show up on the page when I tested it (possibly due to proximity of the Box Model for the 'About Me' section). That is why any code related to it is commented out in both the HTML- and CSS-files. 
 
 ## License
 
-<!--Write this part (see template's descriptor line above) based off of how I did it for the Week 2 Code-Review. (Asked Calvin when i met with him today, he agreed that how I wrote it for Wk2 was/is fine.)   -SM, 8-18-2022, 9:06am. --> 
 Email me at ladolego@gmail.com for questions, ideas, concerns, or even any issues that you run into.  You may also clone or Fork the content in this Repo to fiddle around with it on your own, if you like. Trying to fiddle with the repo itself, however, is off-limits.
 
 Licensed through MIT. Copyright (c) 8/5/2022. Samuel Majerus. 
