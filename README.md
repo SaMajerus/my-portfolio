@@ -28,6 +28,8 @@ _{Leave nothing to chance! You want it to be easy for potential users, employers
 
 ## Known Bugs
 
+* Caption that accompanies my picture is missing from the page, centered in the middle of the picture but hidden, or is invisible...  
+* Descriptions of each Epicodus project in the list are supposed to be 8pt-size. 
 * Potential bug/result: if the CSS file is not in its proper directory, then not only will formatting and styling be missing, but my picture will be huge -- literally. 
 
 ## License

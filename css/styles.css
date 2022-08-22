@@ -1,75 +1,89 @@
 /* Missing properties (see resubmission review):  float, padding, border */
-/* [whole-pg] 'background-color = firebrick;' ?? (How do you set entire page's background color?)*/ 
 
-body {
+body { 
   text-align: left; 
-}
- 
-body.my-name-and-img {  
-  text-align: center; 
+  background-color: khaki;   /*This applies for entire webpage*/ 
+  padding: 10px; 
 } 
 
-body h1 {  
-  font-size: 36pt;
+body img { 
+  margin: auto; 
+  width: 20%; 
+  box-sizing: border-box; 
+} 
+
+body img.alt { 
+  float: left; 
+} 
+
+.post-AST2 { 
+  text-indent: 5cm; 
+  font-size: 10pt;  
+} 
+
+p {
+  font-family: 'Times New Roman', Times, serif; 
+  font-size: 14pt; 
+} 
+
+/*   Header Tags   */  
+h1 { 
+  font-size: 36pt; 
   font-weight: bold; 
   text-decoration: underline; 
   color: darkgray; 
   /*text-align: center;*/  
 } 
- 
-img { 
-  margin: auto; 
-  width: 20%; 
-  /*height: 50%; */ 
-  box-sizing: border-box;
-  
-}
- 
-.post-AST2 {
-  text-indent: 5cm; 
-  font-size: 10pt;  
-}
- 
-p {
-  font-family: 'Times New Roman', Times, serif; 
-  font-size: 14pt; 
-} 
- 
-h2 {
+
+h2 { 
   text-decoration: underline; 
   color: darkmagenta;
 } 
-
-.Epicodus-projects-list.p {
-  font-size: 8pt;
-}
-
 h2.aboutme { 
   color: firebrick; 
-}
-/* Remove this line of whitespace */ 
-h3 {
-  font-style: oblique;
-
+  padding-top: 10px;
+} 
+h3 { 
+  font-family:'Courier New', Courier, monospace; 
+  font-weight: light; 
 } 
 
-
-h4 {
-
-
-} 
-
-
-/*
-h5 {
-
-
+/*   Epicodus Project List   */ 
+/*.Epcs-projList-box { 
+  box-sizing: border-box; 
+  border: hotpink; 
+  border-width: 4px; 
+  padding: 2px; 
 } */ 
 
-a {
+.Epicodus-projects-list.proj-link-des { 
+  font-size: 8pt;
+} 
+
+a { 
   color: blue; 
 } 
 
-.prog-lang-lgd {
-  font-style: italic; 
+/*   Sub-sections of 'About Me'   */ 
+.about-section-box {
+  box-sizing: border-box; 
+  border: solid gray; 
+  border-width: 4px; 
+  padding: 2px; 
+  margin-top: 15px; 
+} 
+
+.bkgd-section {  
+  padding-bottom: 7.5px; 
+} 
+
+.InHbSk-section { 
+  padding-top: 7.5px; 
+  padding-bottom: 7.5px; 
+} 
+
+.prog-lang-lgd { 
+  font-style: oblique; 
+  font-weight: light;
+  font-size: 10pt;
 } 
