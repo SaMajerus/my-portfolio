@@ -21,7 +21,7 @@ that I've started/worked on (which is periodically updated), and a rather-extens
 ## Setup/Installation Requirements
 
 <!-- Do as follows ONLY when this is project finished (Calvin confirmed this):  Do a git clone of the remote repo, create 'gh-pages' branch, push cloned-repo to that branch.    -SM, 8-18-2022, 9:08am. --> 
-* To view the webpage via GitHub-Pages, click the following link (no malware, I promise):  <!--SaMajerus.github.io/portfolio--> 
+* To view the webpage via GitHub-Pages, click the following link (no malware, I promise):  https://samajerus.github.io/my-portfolio/
 
 
 ## Known Bugs
